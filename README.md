@@ -1,2 +1,21 @@
-# AmbisonicsDRIR
+## AmbisonicsDRIR
 SOFA Convention - Ambisonics Directional Room Impulse Response
+
+
+# Description
+
+Room Impulse Response (RIR) measurements are one of the most common ways to capture acoustic characteristics of a given space. When performed with microphone arrays, the RIRs inherently contain directional information. Due to the growing interest in Ambisonics and audio for Virtual Reality, new spherical microphone arrays recently hit the market. Accordingly, several databases of Directional RIRs (DRIRs) measured with such arrays, referred to as Ambisonics DRIRs, have been publicly released. However, there is no format consensus among databases. With the aim of improving interoperability, we propose an exchange format for Ambisonics DRIRs, as a new Spatially Oriented Format for Acoustics (SOFA) convention
+
+For more information, check the article:
+Pérez-López, A., & De Muynke, J. (2018, May). [Ambisonics Directional Room Impulse Response as a New Convention of the Spatially Oriented Format for Acoustics](https://zenodo.org/record/1299894). In Audio Engineering Society Convention 144. Audio Engineering Society.
+
+# Version 0.3
+
+# Implementations
+
+- [Matlab](https://github.com/jdemuynke/API_MO)
+- [Python](https://github.com/andresperezlopez/pysofaconventions)
+- [C++](https://github.com/andresperezlopez/API_Cpp)
+
+
+
