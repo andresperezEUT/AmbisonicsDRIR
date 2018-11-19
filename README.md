@@ -11,6 +11,60 @@ Pérez-López, A., & De Muynke, J. (2018, May). [Ambisonics Directional Room Imp
 
 # Version 0.3
 
+| Name                          | Default | Flags | Dimensions | Type | Comment |
+|-------------------------------|---------|-------|------------|------|---------|
+| GLOBAL:Conventions            |         |       |            |      |         |
+| GLOBAL:Version                |         |       |            |      |         |
+| GLOBAL:SOFAConventions        |         |       |            |      |         |
+| GLOBAL:SOFAConventionsVersion |         |       |            |      |         |
+| GLOBAL:APIName                |         |       |            |      |         |
+| GLOBAL:APIVersion             |         |       |            |      |         |
+| GLOBAL:ApplicationName        |         |       |            |      |         |
+| GLOBAL:ApplicationVersion     |         |       |            |      |         |
+| GLOBAL:AuthorContact          |         |       |            |      |         |
+| GLOBAL:Comment                |         |       |            |      |         |
+| GLOBAL:DataType               |         |       |            |      |         |
+| GLOBAL:History                |         |       |            |      |         |
+| GLOBAL:License                |         |       |            |      |         |
+| GLOBAL:Organization           |         |       |            |      |         |
+| GLOBAL:References             |         |       |            |      |         |
+| GLOBAL:RoomType               |         |       |            |      |         |
+| GLOBAL:Origin                 |         |       |            |      |         |
+| GLOBAL:DateCreated            |         |       |            |      |         |
+| GLOBAL:DateModified           |         |       |            |      |         |
+| GLOBAL:Title                  |         |       |            |      |         |
+| ListenerPosition              |         |       |            |      |         |
+| ListenerPosition:Type         |         |       |            |      |         |
+| ListenerPosition:Units        |         |       |            |      |         |
+| ReceiverPosition              |         |       |            |      |         |
+| ReceiverPosition:Type         |         |       |            |      |         |
+| ReceiverPosition:Units        |         |       |            |      |         |
+| SourcePosition                |         |       |            |      |         |
+| SourcePosition:Type           |         |       |            |      |         |
+| SourcePosition:Units          |         |       |            |      |         |
+| EmitterPosition               |         |       |            |      |         |
+| EmitterPosition:Type          |         |       |            |      |         |
+| EmitterPosition:Units         |         |       |            |      |         |
+| Data.IR                       |         |       |            |      |         |
+| Data.SamplingRate             |         |       |            |      |         |
+| Data.SamplingRate:Units       |         |       |            |      |         |
+| Data.Delay                    |         |       |            |      |         |
+| GLOBAL:DatabaseName           |         |       |            |      |         |
+| GLOBAL:ListenerShortName      |         |       |            |      |         |
+| GLOBAL:ListenerDescription    |         |       |            |      |         |
+| GLOBAL:SourceDescription      |         |       |            |      |         |
+| GLOBAL:SourceManufacturer     |         |       |            |      |         |
+| SourceManufacturer            |         |       |            |      |         |
+|                               |         |       |            |      |         |
+|                               |         |       |            |      |         |
+|                               |         |       |            |      |         |
+|                               |         |       |            |      |         |
+|                               |         |       |            |      |         |
+|                               |         |       |            |      |         |
+|                               |         |       |            |      |         |
+
+
+
 # Implementations
 
 - [Matlab](https://github.com/jdemuynke/API_MO)
